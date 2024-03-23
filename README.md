@@ -1,9 +1,9 @@
 ## Traceroute
 Technology: C\
-Type of project: from scratch, parts of code based on code provided by lecturer
+Type of project: from scratch, parts of code based on code provided by the lecturer
 
 ### Rules of project
-All the files are made from scratch by me.
+All the files are made from scratch by me. Use only on Linux systems!
 
 ### How to use it
 make - compile the project\
